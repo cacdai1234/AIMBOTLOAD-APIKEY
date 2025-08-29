@@ -1,0 +1,49 @@
+[
+  {
+    "key": "anhkhoi",
+    "expire": "2025-09-30",
+    "hwid": "BFEBFBFF00090675",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+,
+  {
+    "key": "KEY-FREE3",
+    "expire": "2025-08-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+, 
+  {
+    "key": "KEY-TRKIEN",
+    "expire": "2025-11-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+, 
+  {
+    "key": "admin",
+    "expire": "2025-11-30",
+    "hwid": "178BFBFF00870F10",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+,
+  {
+    "key": "testnet",
+    "expire": "2025-11-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+,
+  {
+    "key": "FREEVIETVU",
+    "expire": "2025-8-30",
+    "hwid": "",
+    "max_devices": 1,
+    "used_devices": 0
+  }
+]

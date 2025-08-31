@@ -3,9 +3,9 @@
     {
       "key": "ABC-123-TEST",
       "expires": "2025-09-30T23:59:59Z",
-      "hwid": "",              // nếu rỗng => chưa bind (single-device)
-      "singleDevice": true,    // true = chỉ 1 thiết bị (bind), false = ko bind
-      "unlimited": false       // true = không giới hạn thiết bị
+      "hwid": "",             
+      "singleDevice": true,    
+      "unlimited": false      
     },
     {
       "key": "VIP-FOREVER-001",

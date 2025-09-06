@@ -1,0 +1,16 @@
+[
+  {
+    "key": "KEY_THUONG_1",
+    "hwid": "",
+    "expires": "2025-12-31T23:59:59"
+  },
+  {
+    "key": "KEY_VIP_1",
+    "unlimited": true,
+    "expires": "2025-12-31T23:59:59"
+  },
+  {
+    "key": "KEY_VINH_VIEN",
+    "unlimited": true
+  }
+]

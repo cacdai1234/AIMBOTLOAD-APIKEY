@@ -1,23 +1,23 @@
 [
   {
     "key": "KEY_SINGLE_123",
-    "hwid": "a1b2c3d4e5f6...",  // Đã có HWID - được vào
+    "hwid": "a1b2c3d4e5f6...",  
     "type": "single",
-    "expires": "2024-12-31T23:59:59"
+    "expires": "2025-12-31T23:59:59"
   },
   {
     "key": "KEY_SINGLE_456",
-    "hwid": "",  // Chưa có HWID - copy HWID
+    "hwid": "",  
     "type": "single",
-    "expires": "2024-12-31T23:59:59"
+    "expires": "2025-12-31T23:59:59"
   },
   {
     "key": "KEY_MULTI_789",
-    "type": "multi",  // Key multi - được vào
-    "expires": "2024-12-31T23:59:59"
+    "type": "multi",  
+    "expires": "2025-12-31T23:59:59"
   },
   {
     "key": "KEY_UNLIMITED_999",
-    "unlimited": true  // Key unlimited - được vào
+    "unlimited": true  
   }
 ]

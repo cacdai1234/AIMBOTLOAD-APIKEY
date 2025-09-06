@@ -1,16 +1,23 @@
 [
   {
-    "key": "KEY_THUONG_1",
-    "hwid": "",
-    "expires": "2025-12-31T23:59:59"
+    "key": "KEY_SINGLE_123",
+    "hwid": "a1b2c3d4e5f6...",  // Đã có HWID - được vào
+    "type": "single",
+    "expires": "2024-12-31T23:59:59"
   },
   {
-    "key": "KEY_VIP_1",
-    "unlimited": true,
-    "expires": "2025-12-31T23:59:59"
+    "key": "KEY_SINGLE_456",
+    "hwid": "",  // Chưa có HWID - copy HWID
+    "type": "single",
+    "expires": "2024-12-31T23:59:59"
   },
   {
-    "key": "KEY_VINH_VIEN",
-    "unlimited": true
+    "key": "KEY_MULTI_789",
+    "type": "multi",  // Key multi - được vào
+    "expires": "2024-12-31T23:59:59"
+  },
+  {
+    "key": "KEY_UNLIMITED_999",
+    "unlimited": true  // Key unlimited - được vào
   }
 ]

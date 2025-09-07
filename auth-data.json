@@ -34,5 +34,10 @@
   {
     "key": "vidukeyvinhvienkhonggioihanthietbivathoigian",
     "unlimited": true  
-  } 
+  },
+  {
+    "key": "VVU0",
+    "type": "multi",  
+    "expires": "2025-09-10T23:59:59"
+  }
 ]

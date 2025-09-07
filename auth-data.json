@@ -6,18 +6,34 @@
     "expires": "2025-12-31T23:59:59"
   },
   {
-    "key": "KEY_SINGLE_456",
+    "key": "vidukey1tbi",
     "hwid": "",  
     "type": "single",
     "expires": "2025-12-31T23:59:59"
   },
   {
-    "key": "KEY_MULTI_789",
+    "key": "vidukeykhonggioihantbi",
     "type": "multi",  
     "expires": "2025-12-31T23:59:59"
   },
   {
-    "key": "KEY_UNLIMITED_999",
+    "key": "vidukeyvinhvienkhonggioihanthietbivathoigian",
     "unlimited": true  
-  }
+  },
+  {
+    "key": "VVU",
+    "hwid": "",  
+    "type": "single",
+    "expires": "2025-12-31T23:59:59"
+  },
+  {
+    "key": "VVU1",
+    "hwid": "",  
+    "type": "multi",
+    "expires": "2025-12-31T23:59:59"
+  },
+  {
+    "key": "KEY_UNLIMITED_999",
+    "unlimited": true
+  } 
 ]

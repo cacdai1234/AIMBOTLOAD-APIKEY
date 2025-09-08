@@ -39,5 +39,10 @@
     "key": "VVU0",
     "type": "multi",  
     "expires": "2025-09-10T23:59:59"
+  },
+  {
+    "key": "FREEAIMBOT",
+    "type": "multi",
+    "expires": "2025-9-12T23:59:59"
   }
 ]

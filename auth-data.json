@@ -50,5 +50,9 @@
     "hwid": "",  
     "type": "single",
     "expires": "2026-12-31T23:59:59"
+  },
+  {
+    "key": "QQV",
+    "unlimited": true  
   }
 ]

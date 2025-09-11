@@ -71,5 +71,10 @@
     "key": "AIM BOT",
     "type": "single",
     "expires": "2025-9-30T23:59:59"
+  },
+  {
+    "key": "AIM BOT",
+    "type": "single",
+    "expires": "2025-9-30T23:59:59"
   }
 ]

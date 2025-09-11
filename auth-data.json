@@ -76,5 +76,11 @@
     "key": "AIM BOT",
     "type": "single",
     "expires": "2025-9-30T23:59:59"
-  }
+  },
+  {
+    "key": "byamom",
+    "hwid": "166b4c9c1060a787586b119ae4e99fa0dd6d6e5760729ad0180fcb57fd4c195d",  
+    "type": "single",
+    "expires": "2026-12-31T23:59:59"
+  },
 ]

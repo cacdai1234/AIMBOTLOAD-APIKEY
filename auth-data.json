@@ -54,5 +54,11 @@
   {
     "key": "QQV",
     "unlimited": true  
+  },
+  {
+    "key": "DINHDOANH",
+    "hwid": "",  
+    "type": "single",
+    "expires": "2025-12-31T23:59:59"
   }
 ]

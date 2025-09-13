@@ -43,13 +43,7 @@
   {
     "key": "FREEAIMBOT",
     "type": "multi",
-    "expires": "2025-9-13T23:59:59"
-  },
-  {
-    "key": "QUOCVIET",
-    "hwid": "",  
-    "type": "single",
-    "expires": "2026-12-31T23:59:59"
+    "expires": "2025-9-18T23:59:59"
   },
   {
     "key": "QQV",
@@ -59,12 +53,6 @@
     "key": "KHOINGU",
     "type": "multi",
     "expires": "2025-12-31T23:59:59"
-  },
-  {
-    "key": "LAM",
-    "hwid": "",  
-    "type": "single",
-    "expires": "2025-11-30T23:59:59"
   },
   {
     "key": "byamom",

@@ -94,5 +94,11 @@
     "hwid": "",
     "type": "single",
     "expires": "2025-09-29T09:56:11.806901"
+  },
+  {
+    "key": "9XNOV6JMGE4QCL3C",
+    "hwid": "",
+    "type": "multi",
+    "expires": "2025-10-28T09:59:33.530476"
   }
 ]

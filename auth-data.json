@@ -76,11 +76,5 @@
     "hwid": "f7b3aa2859602ad052845a5a8c3d488e7d0a973569b793d53e2c375de677a0dc",
     "type": "single",
     "expires": "2025-10-31T23:59:59"
-  },
-  {
-    "key": "qqv",
-    "hwid": "",
-    "type": "unlimited",
-    "unlimited": true
   }
 ]

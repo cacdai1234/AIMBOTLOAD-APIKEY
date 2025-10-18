@@ -66,27 +66,9 @@
     "expires": "2025-10-31T23:59:59"
   },
   {
-    "key": "ZAYUZOEKM1BY1RW6",
-    "hwid": "",
-    "type": "single",
-    "expires": "2025-10-28T09:55:58.410960"
-  },
-  {
-    "key": "9XNOV6JMGE4QCL3C",
-    "hwid": "",
-    "type": "multi",
-    "expires": "2025-10-28T09:59:33.530476"
-  },
-  {
     "key": "quocviet",
     "hwid": "",
     "type": "multi",
     "expires": "2025-10-28T10:55:40.575639"
-  },
-  {
-    "key": "TMDVZL1TJXT4PI35",
-    "hwid": "",
-    "type": "multi",
-    "expires": "2025-10-21T10:55:33.182266"
   }
 ]
